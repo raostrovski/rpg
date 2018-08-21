@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1513612016 source:c:\users\micro1\google drive\cpp\em andamento\rpg\main.cpp
+	<iostream>
+	"hero.h"
+	<stdio.h>
+	<stdlib.h>
+	"batalha.h"
+	"diversos.h"
+	"hero_creation.h"
+
+1513394360 c:\users\micro1\google drive\cpp\em andamento\rpg\include\hero.h
+	<string>
+	"armas.h"
+	"personagem.h"
+	"classes.h"
+
+1513092433 c:\users\micro1\google drive\cpp\em andamento\rpg\include\armas.h
+	<string>
+
+1513394029 c:\users\micro1\google drive\cpp\em andamento\rpg\include\personagem.h
+	"armas.h"
+	"classes.h"
+	<string>
+
+1512778458 c:\users\micro1\google drive\cpp\em andamento\rpg\include\classes.h
+	<string>
+
+1513392508 c:\users\micro1\google drive\cpp\em andamento\rpg\include\hero_creation.h
+
+1513092433 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\armas.cpp
+	"armas.h"
+
+1513391899 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\batalha.cpp
+	"texto.h"
+	"viloes.h"
+	"batalha.h"
+	"hero.h"
+	"diversos.h"
+	<iomanip>
+	<math.h>
+
+1511368153 c:\users\micro1\google drive\cpp\em andamento\rpg\include\texto.h
+	<iostream>
+
+1513394029 c:\users\micro1\google drive\cpp\em andamento\rpg\include\viloes.h
+	"personagem.h"
+	"classes.h"
+	<string>
+
+1513391899 c:\users\micro1\google drive\cpp\em andamento\rpg\include\batalha.h
+	"hero.h"
+	"viloes.h"
+
+1513346622 c:\users\micro1\google drive\cpp\em andamento\rpg\include\diversos.h
+
+1512778129 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\classes.cpp
+	"classes.h"
+
+1513347646 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\diversos.cpp
+	"diversos.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<random>
+
+1513392644 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\hero_creation.cpp
+	"hero.h"
+	"hero_creation.h"
+	"texto.h"
+	<stdio.h>
+	"diversos.h"
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1513096555 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\texto.cpp
+	"texto.h"
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1513394260 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\viloes.cpp
+	"viloes.h"
+	"diversos.h"
+	"classes.h"
+	<iostream>
+	<string>
+	<time.h>
+
+1513394428 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\hero.cpp
+	"hero.h"
+	"hero_creation.h"
+	"personagem.h"
+	"classes.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1513394123 source:c:\users\micro1\google drive\cpp\em andamento\rpg\src\personagem.cpp
+	"personagem.h"
+	"hero.h"
+	"diversos.h"
+	"armas.h"
+	<iomanip>
+	<iostream>
+	<math.h>
+
+1512148254 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\armas.cpp
+	"armas.h"
+
+1513092433 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\armas.h
+	<string>
+
+1513391899 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\batalha.cpp
+	"texto.h"
+	"viloes.h"
+	"batalha.h"
+	"hero.h"
+	"diversos.h"
+	<iomanip>
+	<math.h>
+
+1511368153 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\texto.h
+	<iostream>
+
+1513394029 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\viloes.h
+	"personagem.h"
+	"classes.h"
+	<string>
+
+1513394029 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\personagem.h
+	"armas.h"
+	"classes.h"
+	<string>
+
+1512778458 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\classes.h
+	<string>
+
+1513391899 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\batalha.h
+	"hero.h"
+	"viloes.h"
+
+1513394360 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\hero.h
+	<string>
+	"armas.h"
+	"personagem.h"
+	"classes.h"
+
+1513346622 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\diversos.h
+
+1512778129 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\classes.cpp
+	"classes.h"
+
+1513347646 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\diversos.cpp
+	"diversos.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<random>
+
+1513394029 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\hero.cpp
+	"hero.h"
+	"hero_creation.h"
+	"personagem.h"
+	"classes.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1513392508 c:\users\rostrovski\google drive\cpp\em andamento\rpg\include\hero_creation.h
+
+1513394123 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\personagem.cpp
+	"personagem.h"
+	"hero.h"
+	"diversos.h"
+	"armas.h"
+	<iomanip>
+	<iostream>
+	<math.h>
+
+1513096555 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\texto.cpp
+	"texto.h"
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1513394266 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\viloes.cpp
+	"viloes.h"
+	"diversos.h"
+	"classes.h"
+	<iostream>
+	<string>
+	<time.h>
+
+1513392624 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\main.cpp
+	<iostream>
+	"hero.h"
+	<stdio.h>
+	<stdlib.h>
+	"batalha.h"
+	"diversos.h"
+	"hero_creation.h"
+
+1513392644 source:c:\users\rostrovski\google drive\cpp\em andamento\rpg\src\hero_creation.cpp
+	"hero.h"
+	"hero_creation.h"
+	"texto.h"
+	<stdio.h>
+	"diversos.h"
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
